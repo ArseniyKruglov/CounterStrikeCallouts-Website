@@ -1,8 +1,0 @@
-body{margin:0;background-color:#fff}@media(prefers-color-scheme: dark){body{background-color:#000}}
-html{color-scheme:light}@media(prefers-color-scheme: dark){html{color-scheme:dark}}
-html{-webkit-tap-highlight-color:rgba(0,0,0,0)}
-*:focus-visible{outline:#1a73e8 auto 2px}
-html{overflow-wrap:anywhere;-webkit-font-smoothing:antialiased}
-body.ThemeChanging,body.ThemeChanging *{transition:none !important}
-body>.Map{width:100%;height:100%}
-@font-face{font-family:"Google Sans";font-weight:400;src:url(https://fonts.gstatic.com/s/googlesans/v45/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJl1pynSEg.woff2) format("woff2");unicode-range:U+0308,U+0530-058F,U+2010,U+2024,U+25CC,U+FB13-FB17}@font-face{font-family:"Google Sans";font-weight:400;src:url(https://fonts.gstatic.com/s/googlesans/v45/4Ua_rENHsxJlGDuGo1OIlJfC6l_24rlCK1Yo_Iqcsih3SAyH6cAwhX9RFD48TE63OOYKtrwEIJlhpynSEg.woff2) format("woff2");unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}html,body{width:100%;height:100%}body{display:flex;background-color:HSL(225, 15%, 98%)}@media (prefers-color-scheme: dark){body{background-color:#000}}
